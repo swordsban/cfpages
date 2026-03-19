@@ -3,10 +3,33 @@
     <title>Arkben</title>
     <link href="https://swordsban.github.io/cfpages/feed.xml" rel="self" />
     <link href="https://swordsban.github.io/cfpages" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2026-03-19T23:32:08+08:00</updated>
     <author>
         <name>ark</name>
     </author>
     <id>https://swordsban.github.io/cfpages</id>
 
+    <entry>
+        <title>安忍不动如大地  静虑深密如秘藏</title>
+        <author>
+            <name>ark</name>
+        </author>
+        <link href="https://swordsban.github.io/cfpages/an-ren-bu-dong-ru-da-di-jing-lu-shen-mi-ru-mi-cang.html"/>
+        <id>https://swordsban.github.io/cfpages/an-ren-bu-dong-ru-da-di-jing-lu-shen-mi-ru-mi-cang.html</id>
+
+        <updated>2026-03-19T23:32:08+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    青岛湛山寺是中国最年轻的天台宗道场。
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="添加图片" data-columns="1">
+<figure class="gallery__item"><a href="https://swordsban.github.io/cfpages/media/posts/1/gallery/IMG_7467.jpg" data-size="3016x4024"><img loading="lazy" src="https://swordsban.github.io/cfpages/media/posts/1/gallery/IMG_7467-thumbnail.jpg" alt="" width="768" height="1025"></a></figure>
+</div></div>
+<p>青岛湛山寺是中国最年轻的天台宗道场。</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
