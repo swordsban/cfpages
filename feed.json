@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Arkben",
+    "description": "",
+    "home_page_url": "https://swordsban.github.io/cfpages",
+    "feed_url": "https://swordsban.github.io/cfpages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "ark"
+    },
+    "items": [
+    ]
+}

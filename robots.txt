@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://swordsban.github.io/cfpages/sitemap.xml

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Arkben</title>
+    <link href="https://swordsban.github.io/cfpages/feed.xml" rel="self" />
+    <link href="https://swordsban.github.io/cfpages" />
+    <updated>1970-01-01T08:00:00+08:00</updated>
+    <author>
+        <name>ark</name>
+    </author>
+    <id>https://swordsban.github.io/cfpages</id>
+
+</feed>
